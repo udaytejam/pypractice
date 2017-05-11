@@ -1,2 +1,2 @@
 # pypractice
-This repo contains py files I practised during python practice.
+Python practice with basic modules.
